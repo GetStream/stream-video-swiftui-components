@@ -1,4 +1,5 @@
-# Bouncy Isle: Dynamic Island Animations Cloned With SwiftUI. An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI.
+# Bouncy Isle: Dynamic Island Animations Cloned With SwiftUI. 
+An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI.
 
 ## First Class Citizen Apple Apps (Coming soon)
 - **Apple Pay:** Morph Dynamic Island into a square-shaped FaceID confirmation animation
