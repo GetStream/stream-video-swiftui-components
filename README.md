@@ -1,4 +1,4 @@
-# Bouncy Isle: 
+# Bouncy Isle 
 ## Dynamic Island Animations Cloned With SwiftUI. 
 An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI.
 
