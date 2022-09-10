@@ -1,7 +1,8 @@
-# Bouncy Isle: Dynamic Island Animations Cloned With SwiftUI. 
+# Bouncy Isle: 
+## Dynamic Island Animations Cloned With SwiftUI. 
 An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI.
 
-## First Class Citizen Apple Apps (Coming soon)
+### First Class Citizen Apple Apps (Coming soon)
 - **Apple Pay:** Morph Dynamic Island into a square-shaped FaceID confirmation animation
 - **Phone Call:** Morph Dynamic Island into a larger interface to expose phone controls
 - **Apple Maps:** Change Dynamic Island smoothly to show upcoming maps directions without launching the Maps app
@@ -14,7 +15,7 @@ An inspiration for developers to create pill-shaped cutout morphing animations/m
 - **Airpods Max Connection Status:** An animation showing the connection information of Airpods Max
 - **Battery Charging Status:** Display information about iPhone charging status and battery life
 
-## Third-party Apps (Coming soon)
+### Third-party Apps (Coming soon)
 - **Uber Arriving:** A morphing animation for tracking the time of arrival of an Uber
 - **Lyft Arriving:** A morphing animation for tracking the time of arrival of a Lyft
 - **Flightly (Airplane Landing):** An animation showing the landing information of an air plane
