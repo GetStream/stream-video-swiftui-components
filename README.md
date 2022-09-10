@@ -1,6 +1,6 @@
 # Bouncy Isle 
 ## Dynamic Island Animations Cloned With SwiftUI. 
-An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI. The repo has come-in and tuck- away animations for Dynamic Island on iPhone Pro 14 and Max. 
+An inspiration for developers to create pill-shaped cutout morphing animations/motion mostly using Springs in SwiftUI. The repo contains the come-in and tuck-away animations for Dynamic Island on iPhone Pro 14 and Max. 
 
 ### First Class Citizen Apple Apps (Coming soon)
 - **Apple Pay:** Morph Dynamic Island into a square-shaped FaceID confirmation animation
