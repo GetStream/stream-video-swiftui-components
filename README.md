@@ -4,6 +4,8 @@ An inspiration for developers to create pill-shaped cutout morphing animations/m
 
 ### First Class Citizen Apple Apps (Coming soon)
 - **Apple Pay:** Morph Dynamic Island into a square-shaped FaceID confirmation animation
+- **Silent/Ringing:** Morph a silent into ringing
+- **FaceTime Bubbling:** 
 - **Phone Call:** Morph Dynamic Island into a larger interface to expose phone controls
 - **Apple Maps:** Change Dynamic Island smoothly to show upcoming maps directions without launching the Maps app
 - **Display Map Directions:** A smaller pill-shaped UI for a quick glance at the next turn.
@@ -19,3 +21,4 @@ An inspiration for developers to create pill-shaped cutout morphing animations/m
 - **Uber Arriving:** A morphing animation for tracking the time of arrival of an Uber
 - **Lyft Arriving:** A morphing animation for tracking the time of arrival of a Lyft
 - **Flightly (Airplane Landing):** An animation showing the landing information of an air plane
+- StepsApp: Steps counting animation
