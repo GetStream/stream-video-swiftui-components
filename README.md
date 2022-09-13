@@ -24,7 +24,8 @@ A pill-shaped UI for a glance at the next turn.
 An animated music waveform and time remaining on a song that is playing. Morph music controls into a music player
 
 #### Privacy 
-Indicators:** A seamless morphing animation showing the microphone or phone is in use
+Indicators: 
+A seamless morphing animation showing the microphone or phone is in use
 
 #### Timer:
 A seamless morphing, jelly, and bouncy animation
