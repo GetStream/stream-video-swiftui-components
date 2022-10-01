@@ -6,7 +6,6 @@ An inspiration for developers to create pill-shaped cutout morphing animations/m
 - FaceID for lock screen: [Swift file]()
 ![FaceID for lock screen](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/faceIDLockScreeen.gif)
 
---
 
 #### Apple Pay: 
 Morph Dynamic Island into a square-shaped FaceID confirmation animation
