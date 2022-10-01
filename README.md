@@ -3,6 +3,11 @@
 An inspiration for developers to create pill-shaped cutout morphing animations/motion using Springs in SwiftUI. The repo contains the come-in and tuck-away animations for Dynamic Island on iPhone Pro 14 and Max.
 
 ### First Class Citizen Apple Apps (Coming soon)
+- FaceID for lock screen: [Swift file]()
+![FaceID for lock screen](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/faceIDLockScreeen.gif)
+
+--
+
 #### Apple Pay: 
 Morph Dynamic Island into a square-shaped FaceID confirmation animation
 
