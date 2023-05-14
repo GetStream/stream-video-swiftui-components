@@ -1,1 +1,1 @@
-# iOS Notifications Cheatsheet For Developers
+# iOS Navigation Designs/Patterns Cheatsheet For Developers
