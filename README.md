@@ -2,17 +2,42 @@
 
 ## Build Audio/Video Calling, Audio Room, and Live Streaming Apps For iOS
 
-This repo showcases customizing your iOS VoIP app powered by Stream to build clones of:
-- WhatsApp Calls
-- Messenger Calls
+**Main use cases:**
+- Dating
+- On-Demand
+- Healthcare
+- Education
+- Gaming
+- Marketplace
+- Live Event
+---------------
+
+**This repo also showcases customizing your iOS VoIP app powered by Stream to build clones of:**
+
+### Chat and Video Calling
+- WhatsApp
+- Telegram
+- Messenger
+- FaceTime
+
+### Video Conferencing: Meeting
 - Around
 - Skype
 - Google Meet
 - Zoom
 - MS Teams
+
+### Live Streaming
+- Telegram's Group Calling
 - Twitch
-- FaceTime
+
+### Audio Room
 - Twitter Spaces
-- Club House
-- Telegram 1 - 1 and Group Calling
+- Club House 
+
+### Camera Recording
+- Snap Chat
+- Tiktok
 - Loom
+
+
